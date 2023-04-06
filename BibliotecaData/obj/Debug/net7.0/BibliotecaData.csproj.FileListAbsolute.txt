@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\BibliotecaData\bin\Debug\net7.0\BibliotecaData.deps.json
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\BibliotecaData\bin\Debug\net7.0\BibliotecaData.dll
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\BibliotecaData\bin\Debug\net7.0\BibliotecaData.pdb
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\BibliotecaData\obj\Debug\net7.0\BibliotecaData.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\BibliotecaData\obj\Debug\net7.0\BibliotecaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\BibliotecaData\obj\Debug\net7.0\BibliotecaData.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\BibliotecaData\obj\Debug\net7.0\BibliotecaData.AssemblyInfo.cs
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\BibliotecaData\obj\Debug\net7.0\BibliotecaData.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\BibliotecaData\obj\Debug\net7.0\BibliotecaData.dll
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\BibliotecaData\obj\Debug\net7.0\refint\BibliotecaData.dll
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\BibliotecaData\obj\Debug\net7.0\BibliotecaData.pdb
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\BibliotecaData\obj\Debug\net7.0\ref\BibliotecaData.dll

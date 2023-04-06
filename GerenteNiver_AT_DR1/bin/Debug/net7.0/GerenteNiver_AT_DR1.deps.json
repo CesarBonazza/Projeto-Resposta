@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "GerenteNiver_AT_DR1/1.0.0": {
+        "dependencies": {
+          "BibliotecaData": "1.0.0",
+          "InterfacesData": "1.0.0"
+        },
+        "runtime": {
+          "GerenteNiver_AT_DR1.dll": {}
+        }
+      },
+      "BibliotecaData/1.0.0": {
+        "runtime": {
+          "BibliotecaData.dll": {}
+        }
+      },
+      "InterfacesData/1.0.0": {
+        "dependencies": {
+          "BibliotecaData": "1.0.0"
+        },
+        "runtime": {
+          "InterfacesData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GerenteNiver_AT_DR1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InterfacesData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\InterfacesData\bin\Debug\net7.0\InterfacesData.deps.json
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\InterfacesData\bin\Debug\net7.0\InterfacesData.dll
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\InterfacesData\bin\Debug\net7.0\InterfacesData.pdb
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\InterfacesData\bin\Debug\net7.0\BibliotecaData.dll
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\InterfacesData\bin\Debug\net7.0\BibliotecaData.pdb
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\InterfacesData\obj\Debug\net7.0\InterfacesData.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\InterfacesData\obj\Debug\net7.0\InterfacesData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\InterfacesData\obj\Debug\net7.0\InterfacesData.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\InterfacesData\obj\Debug\net7.0\InterfacesData.AssemblyInfo.cs
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\InterfacesData\obj\Debug\net7.0\InterfacesData.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\InterfacesData\obj\Debug\net7.0\InterfacesData.csproj.CopyComplete
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\InterfacesData\obj\Debug\net7.0\InterfacesData.dll
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\InterfacesData\obj\Debug\net7.0\refint\InterfacesData.dll
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\InterfacesData\obj\Debug\net7.0\InterfacesData.pdb
+C:\Users\User\source\repos\GerenteNiver_AT_DR1\InterfacesData\obj\Debug\net7.0\ref\InterfacesData.dll
